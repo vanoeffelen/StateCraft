@@ -20,22 +20,24 @@
     <div style="text-align: center">
                 <p>
                     <img alt="logo" class="auto-style1" src="../Images/StatecraftLogo.jpg" id="logo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black">HOME</asp:LinkButton>
+                    <span id="Links">
+                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">HOME</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnNews" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black">NEWS</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnNews" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">NEWS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnAbout" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black">ABOUT</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnAbout" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">ABOUT</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnScreenshots" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black">SCREENSHOTS</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnScreenshots" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">SCREENSHOTS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnFAQ" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" ForeColor="Black">FAQ</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnFAQ" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" ForeColor="Black" CssClass="Links">FAQ</asp:LinkButton>
+                    </span>
                 </p>
                 <hr id="hr" draggable="false" />
 <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
     </div>
     </form>
-    <p>
+    <p></p>
         &nbsp;<p>
         &nbsp;</p>
     <p>
