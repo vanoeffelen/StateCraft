@@ -1,0 +1,26 @@
+﻿body 
+{    text-align: left;
+}
+
+#logo
+{
+    height:8%;
+    width:20%;
+    position:relative;
+    top: 13px;
+    left: 38px;
+}
+
+#hr
+{
+    color:black;
+}
+
+#MainContent
+{
+    border: medium groove black;
+    margin-right:auto;
+    width:1405px;
+    text-align: left;
+    font-size: x-large;
+}
