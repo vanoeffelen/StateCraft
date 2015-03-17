@@ -11,4 +11,8 @@ public partial class MasterPages_Header : System.Web.UI.MasterPage
     {
 
     }
+    protected void lnkbtnNews_Click(object sender, EventArgs e)
+    {
+
+    }
 }
