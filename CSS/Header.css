@@ -20,10 +20,12 @@
 #MainContent
 {
     border: medium groove black;
-    margin-right:auto;
-    width:1561px;
-    text-align: center;
+    margin-right:131px;
+    width:1891px;
+    text-align: left;
     font-size: x-large;
+    height: 44px;
+    margin-left: 0px;
 }
 
 /*FINALLY REMOVED UNDERLINE*/
