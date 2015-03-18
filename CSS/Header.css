@@ -34,3 +34,34 @@
 {
     text-decoration:none;
 }
+
+#hr2
+{
+    color:black;
+}
+
+#News1
+{
+    border:medium groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+}
+
+#hr3
+{
+    color:black;
+}
+
+#hr4
+{
+    color:black;
+}
+
+#News2
+{
+    border: medium groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+}
