@@ -160,7 +160,7 @@
             font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
             font-size: 20px;
             text-align: left;
-            height: 2px;
+            height: 20px;
             margin-left: 40px;
         }
         .newStyle34 {
@@ -179,32 +179,29 @@
     <asp:Image ID="Image1" runat="server" Height="301px" ImageUrl="~/Images/LoopingMap.png" Width="1813px" style="text-align: center; margin-left: 42px" />
 </p>
 <p class="auto-style7">
-    <span class="newStyle22">*About Statecraft</span></p>
+    <span class="newStyle22">* About Statecraft</span></p>
     <p class="newStyle34 auto-style19">
-        ^ Statecraft is a turn-based military/ political strategy game centered around maps.
-</p>
-    <p class="newStyle34 auto-style19">
-        ^ In it, you command your nation.</p>
-    <p class="newStyle34 auto-style19">
-        ^ Dictate foreign policy as well as domestic laws.
-</p>
-    <p class="newStyle34 auto-style19">
-        ^ Keep your population happy while keeping your allies happy.</p>
-    <p class="newStyle34 auto-style19">
-        ^ Think, &quot;Democracy 3&quot; and &quot;Risk&quot; combined into one.
-</p>
-    <p class="newStyle34 auto-style19">
-        ^ Different levels of maps (global, regional, national, provincial).
-</p>
-    <p class="newStyle34 auto-style19">
-        ^ Allied and enemy nations controlled by AI or other players.</p>
-    <p class="newStyle34 auto-style19">
-        ^ Pick your domestic policies, potentially inciting rebellions.</p>
-    <p class="newStyle34 auto-style19">
-        ^ Pick your foreign policies, potentially upsetting your neighbors.</p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is a turn-based military/ political strategy game centered around maps. In it, you command your nation. Dictate foreign policy as well as domestic laws. Keep your population happy while keeping your allies happy. Think, &quot;Democracy 3&quot; and &quot;Risk&quot; combined into one. Different levels of maps (global, regional, national, provincial). Allied and enemy nations controlled by AI or other players.Pick your domestic policies, potentially inciting rebellions.Pick your foreign policies, potentially upsetting your neighbors.</p>
     <p class="auto-style15">
         &nbsp;</p>
     <p class="auto-style15">
-        <span class="auto-style14">*Statecraft</span><span class="auto-style13"> is developed by a small team of students in Grand Rapids, Michigan.</span></p>
+        &nbsp;</p>
+    <p class="auto-style15">
+        <span class="auto-style14">* Statecraft</span><span class="auto-style13"> is developed by a small team of students in Grand Rapids, Michigan.</span></p>
+    <p class="auto-style15">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+    <p class="auto-style15">
+    &nbsp;<span class="auto-style13">&nbsp;&nbsp; Developers:</span></p>
+    <p class="auto-style15">
+        &nbsp;</p>
+    <p class="auto-style15">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarah Whitters - Project Manager&nbsp;</p>
+    <p class="auto-style15">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conor Farrell - Lead Designer</p>
+    <p class="auto-style15">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jared VanOeffelen - &nbsp;Lead Programmer</p>
+    <p class="auto-style15">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Juan Garcia - Lead Writer&nbsp;</p>
 </asp:Content>
 
