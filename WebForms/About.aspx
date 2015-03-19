@@ -119,7 +119,7 @@
             text-align: left;
             height: 43px;
             font-size: xx-large;
-            margin-left: 40px;
+            margin-left: 80px;
         }
         .newStyle27 {
             font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -149,29 +149,17 @@
             font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
             font-size: 20px;
         }
-        .auto-style13 {
-            font-size: xx-large;
-        }
-        .auto-style14 {
-            font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-            font-size: xx-large;
-        }
-        .auto-style15 {
-            font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-            font-size: 20px;
-            text-align: left;
-            height: 20px;
-            margin-left: 40px;
-        }
         .newStyle34 {
             font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
             font-size: 20px;
         }
         .auto-style19 {
             text-align: left;
-            height: 20px;
+            height: 27px;
             margin-left: 80px;
-        }
+        width: 1396px;
+        margin-bottom: 3px;
+    }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
@@ -179,29 +167,22 @@
     <asp:Image ID="Image1" runat="server" Height="301px" ImageUrl="~/Images/LoopingMap.png" Width="1813px" style="text-align: center; margin-left: 42px" />
 </p>
 <p class="auto-style7">
-    <span class="newStyle22">* About Statecraft</span></p>
+    <span class="newStyle22">About Statecraft</span></p>
     <p class="newStyle34 auto-style19">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is a turn-based military/ political strategy game centered around maps. In it, you command your nation. Dictate foreign policy as well as domestic laws. Keep your population happy while keeping your allies happy. Think, &quot;Democracy 3&quot; and &quot;Risk&quot; combined into one. Different levels of maps (global, regional, national, provincial). Allied and enemy nations controlled by AI or other players.Pick your domestic policies, potentially inciting rebellions.Pick your foreign policies, potentially upsetting your neighbors.</p>
-    <p class="auto-style15">
-        &nbsp;</p>
-    <p class="auto-style15">
-        &nbsp;</p>
-    <p class="auto-style15">
-        <span class="auto-style14">* Statecraft</span><span class="auto-style13"> is developed by a small team of students in Grand Rapids, Michigan.</span></p>
-    <p class="auto-style15">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-    <p class="auto-style15">
-    &nbsp;<span class="auto-style13">&nbsp;&nbsp; Developers:</span></p>
-    <p class="auto-style15">
-        &nbsp;</p>
-    <p class="auto-style15">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarah Whitters - Project Manager&nbsp;</p>
-    <p class="auto-style15">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conor Farrell - Lead Designer</p>
-    <p class="auto-style15">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jared VanOeffelen - &nbsp;Lead Programmer</p>
-    <p class="auto-style15">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Juan Garcia - Lead Writer&nbsp;</p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is a turn-based military/ political strategy game centered around maps. In it, you command your nation. Dictate foreign policy as well as domestic laws. Keep your population happy while keeping your allies happy. Think, &quot;Democracy 3&quot; and &quot;Risk&quot; combined into one. Different levels of maps (global, regional, national, provincial). Allied and enemy nations controlled by AI or other players.Pick your domestic policies, potentially inciting rebellions. Pick your foreign policies, potentially upsetting your neighbors. Statecraft is developed by a small team of students in Grand Rapids, Michigan. </p>
+<p class="newStyle34 auto-style19">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p class="newStyle34 auto-style19">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is developed by a small team of students in Grand Rapids, Michigan. </p>
+<p class="newStyle34 auto-style19">
+        Developers:</p>
+<p class="newStyle34 auto-style19">
+        Sarah Whitters - Project Manager</p>
+<p class="newStyle34 auto-style19">
+        Conor Farrell - Graphic Designer</p>
+<p class="newStyle34 auto-style19">
+        Jared VanOeffelen - Lead Programmer</p>
+<p class="newStyle34 auto-style19">
+        Juan Garcia - Lead Writer</p>
 </asp:Content>
 
