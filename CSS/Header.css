@@ -42,10 +42,11 @@
 
 #News1
 {
-    border:medium groove black;
+    border:thin groove black;
     margin-left:auto;
     margin-right:auto;
     width:75%;
+    padding:10px;
 }
 
 #hr3
@@ -60,10 +61,11 @@
 
 #News2
 {
-    border: medium groove black;
+    border:thin groove black;
     margin-left:auto;
     margin-right:auto;
     width:75%;
+    padding:10px;
 }
 
 #hr5
@@ -73,10 +75,11 @@
 
 #News3
 {
-    border:medium groove black;
+    border:thin groove black;
     margin-left:auto;
     margin-right:auto;
     width:75%;
+    padding:10px;
 }
 
 #hr6
@@ -86,8 +89,23 @@
 
 #News4
 {
-    border:medium groove black;
+    border:thin groove black;
     margin-left:auto;
     margin-right:auto;
     width:75%;
+    padding:10px;
+}
+
+#News5
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#hr7
+{
+    color:black;
 }
