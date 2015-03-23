@@ -20,13 +20,92 @@
 #MainContent
 {
     border: medium groove black;
-    margin-right:auto;
-    width:1405px;
+    margin-right:131px;
+    width:1891px;
     text-align: left;
     font-size: x-large;
+    height: 915px;
+    margin-left: 0px;
 }
+
+/*FINALLY REMOVED UNDERLINE*/
 
 .Links
 {
     text-decoration:none;
+}
+
+#hr2
+{
+    color:black;
+}
+
+#News1
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#hr3
+{
+    color:black;
+}
+
+#hr4
+{
+    color:black;
+}
+
+#News2
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#hr5
+{
+    color:black;
+}
+
+#News3
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#hr6
+{
+    color:black;
+}
+
+#News4
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#News5
+{
+    border:thin groove black;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+    padding:10px;
+}
+
+#hr7
+{
+    color:black;
 }

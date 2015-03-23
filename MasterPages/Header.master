@@ -21,15 +21,19 @@
                 <p>
                     <img alt="logo" class="auto-style1" src="../Images/StatecraftLogo.jpg" id="logo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <span id="Links">
+<<<<<<< HEAD
                     <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" OnClick="lnkbtnHome_Click">HOME</asp:LinkButton>
+=======
+                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/Home.aspx">HOME</asp:LinkButton>
+>>>>>>> origin/master
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnNews" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">NEWS</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnNews" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" OnClick="lnkbtnNews_Click" PostBackUrl="~/WebForms/News.aspx">NEWS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnAbout" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">ABOUT</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnAbout" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/About.aspx">ABOUT</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:LinkButton ID="lnkbtnScreenshots" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">SCREENSHOTS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnFAQ" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" ForeColor="Black" CssClass="Links">FAQ</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnFAQ" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/FAQ.aspx">FAQ</asp:LinkButton>
                     </span>
                 </p>
                 <hr id="hr" draggable="false" />

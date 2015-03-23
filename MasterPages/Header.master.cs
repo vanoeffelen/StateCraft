@@ -11,7 +11,11 @@ public partial class MasterPages_Header : System.Web.UI.MasterPage
     {
 
     }
+<<<<<<< HEAD
     protected void lnkbtnHome_Click(object sender, EventArgs e)
+=======
+    protected void lnkbtnNews_Click(object sender, EventArgs e)
+>>>>>>> origin/master
     {
 
     }
