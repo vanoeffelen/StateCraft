@@ -21,11 +21,7 @@
                 <p>
                     <img alt="logo" class="auto-style1" src="../Images/StatecraftLogo.jpg" id="logo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <span id="Links">
-<<<<<<< HEAD
-                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" OnClick="lnkbtnHome_Click">HOME</asp:LinkButton>
-=======
-                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/Home.aspx">HOME</asp:LinkButton>
->>>>>>> origin/master
+                    <asp:LinkButton ID="lnkbtnHome" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/Home.aspx" OnClick="lnkbtnHome_Click1">HOME</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:LinkButton ID="lnkbtnNews" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" OnClick="lnkbtnNews_Click" PostBackUrl="~/WebForms/News.aspx">NEWS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -7,16 +7,17 @@ using System.Web.UI.WebControls;
 
 public partial class MasterPages_Header : System.Web.UI.MasterPage
 {
-    protected void Page_Load(object sender, EventArgs e)
-    {
 
-    }
-<<<<<<< HEAD
-    protected void lnkbtnHome_Click(object sender, EventArgs e)
-=======
-    protected void lnkbtnNews_Click(object sender, EventArgs e)
->>>>>>> origin/master
-    {
+protected void lnkbtnHome_Click(object sender, EventArgs e)
+{
 
-    }
+}
+protected void lnkbtnHome_Click1(object sender, EventArgs e)
+{
+
+}
+protected void lnkbtnNews_Click(object sender, EventArgs e)
+{
+
+}
 }
