@@ -27,7 +27,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:LinkButton ID="lnkbtnAbout" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/About.aspx">ABOUT</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:LinkButton ID="lnkbtnScreenshots" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links">SCREENSHOTS</asp:LinkButton>
+                    <asp:LinkButton ID="lnkbtnScreenshots" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" Font-Size="Large" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/Screenshots.aspx">SCREENSHOTS</asp:LinkButton>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:LinkButton ID="lnkbtnFAQ" runat="server" Font-Bold="True" Font-Italic="True" Font-Names="Franklin Gothic Medium" ForeColor="Black" CssClass="Links" PostBackUrl="~/WebForms/FAQ.aspx">FAQ</asp:LinkButton>
                     </span>
