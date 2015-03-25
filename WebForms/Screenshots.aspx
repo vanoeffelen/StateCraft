@@ -21,7 +21,7 @@
     <p class="auto-style2" style="height: 63px">
         <strong><em>In-Game Screenshots</em></strong></p>
     <p style="text-align: center; height: 488px">
-        <asp:Image ID="Image1" runat="server" Height="435px" ImageUrl="~/Images/Region-Japan.png" style="text-align: center" Width="770px" />
+        <asp:Image ID="Image1" runat="server" Height="564px" ImageUrl="~/Images/Region-Japan.png" style="text-align: center" Width="988px" />
     </p>
 </asp:Content>
 

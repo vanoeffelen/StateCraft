@@ -167,7 +167,7 @@
     <asp:Image ID="Image1" runat="server" Height="301px" ImageUrl="~/Images/LoopingMap.png" Width="1813px" style="text-align: center; margin-left: 42px" />
 </p>
 <p class="auto-style7">
-    <span class="newStyle22">About Statecraft</span></p>
+    <span class="newStyle22"><strong>About Statecraft</strong></span></p>
     <p class="newStyle34 auto-style19">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is a turn-based military/ political strategy game centered around maps. In it, you command your nation. Dictate foreign policy as well as domestic laws. Keep your population happy while keeping your allies happy. Think, &quot;Democracy 3&quot; and &quot;Risk&quot; combined into one. Different levels of maps (global, regional, national, provincial). Allied and enemy nations controlled by AI or other players.Pick your domestic policies, potentially inciting rebellions. Pick your foreign policies, potentially upsetting your neighbors. Statecraft is developed by a small team of students in Grand Rapids, Michigan. </p>
 <p class="newStyle34 auto-style19">
@@ -175,7 +175,7 @@
 <p class="newStyle34 auto-style19">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statecraft is developed by a small team of students in Grand Rapids, Michigan. </p>
 <p class="newStyle34 auto-style19">
-        Developers:</p>
+        <strong>Developers:</strong></p>
 <p class="newStyle34 auto-style19">
         Sarah Whitters - Project Manager</p>
 <p class="newStyle34 auto-style19">
